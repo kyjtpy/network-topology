@@ -68,8 +68,14 @@ interface GigabitEthernet0/0/0.20
 ip route 192.168.1.0 255.255.255.0 172.16.1.2
 ip route 192.168.2.0 255.255.255.0 172.16.1.2
 How to Use
-Clone or download the repository.
-
 Open the .pkt file using Cisco Packet Tracer.
+
+
+---
+
+## License & Copyright
+© 2026 KYJTPY. All rights reserved.  
+This project is uploaded for portfolio and display purposes. Unauthorized reuse or redistribution without attribution is prohibited.
+Clone or download the repository.
 
 Test end-to-key connectivity across different departments using ping simulations.
